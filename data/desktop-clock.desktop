@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Desktop Clock
+Comment=Transparent analog clock — drop a PNG/logo on the face
+Exec=desktop-clock --desklet
+Icon=preferences-system-time
+Terminal=false
+Categories=Utility;Clock;
+StartupNotify=false
+StartupWMClass=desktop-clock
+Keywords=clock;desklet;analog;transparent;
+X-GNOME-Autostart-enabled=true
