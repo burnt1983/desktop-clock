@@ -1,5 +1,7 @@
 # Desktop Clock
 
+<p align="center"><img src="https://repository-images.githubusercontent.com/1380104371/e597e8f4-aafd-49cb-b5ae-f109e70d23e9" alt="Desktop Clock" width="640"></p>
+
 A **frameless** analog clock for any Linux desktop. Transparent PNG faces
 keep their alpha — no plate, no window chrome. Drop in a logo or a photo
 as the clock face.
